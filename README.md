@@ -1,6 +1,6 @@
 # Sound-and-Image
 
-For more project information click <link href="https://github.com/JetK2/Sound-and-Image/blob/main/Sound%20and%20Image.pdf"> here </link>
+For more project information click [here]([url](https://github.com/JetK2/Sound-and-Image/blob/main/Sound%20and%20Image.pdf))
 
 Videos of the Final Pieces
 
