@@ -1,5 +1,7 @@
 # Sound-and-Image
 
+For more project information click <link href="https://github.com/JetK2/Sound-and-Image/blob/main/Sound%20and%20Image.pdf"> here </link>
+
 Videos of the Final Pieces
 
 Delaunay
